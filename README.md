@@ -1,12 +1,12 @@
 # 💫 À propos de moi :
 Salut 👋, je suis Shanks Dev
 
-*Développeur Web | Futur Full-Stack Engineer | Passionné de Tech du Sénégal*
+*Développeur Web | Futur Full-Stack Engineer | Passionné de Tech*
 
 📧 Contactez-moi 👉 ✉️ bmsc1906@gmail.com pour toute collaboration, projet ou échange 🚀<br>
 
 🔭 Je travaille actuellement sur : Sites web sécurisés et performants, application de réservation de places, etc <br>
-🌱 J’apprends actuellement : Java avancé, Python, PHP (Laravel, Symfony) <br>
+🌱 J’apprends actuellement : Java avancé, PHP (Laravel) <br>
 👯 Je cherche à collaborer sur : Projets web & mobiles centrés sur l’expérience utilisateur et contributions open source <br>
 🤔 J’ai besoin d’aide sur : Bonnes pratiques DevOps et Cloud Computing <br>
 💬 Parlez-moi de : Développement Web, gestion de clubs tech, parcours d’apprentissage IT <br>
