@@ -110,12 +110,12 @@ Virtualisation **VMware**, analyse réseau **Packet Tracer / Wireshark**.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CISQOSE&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CISQOSE&theme=midnight_purple" />
 <img width="48%" src="https://streak-stats.demolab.com?user=CISQOSE&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=2d1b69&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=e2e2e2" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CISQOSE&layout=compact&theme=midnight-purple&hide_border=true&title_color=A78BFA&text_color=e2e2e2&cache_seconds=1800" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CISQOSE&theme=midnight_purple" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CISQOSE&theme=midnight_purple&utcOffset=0" />
 
 </div>
