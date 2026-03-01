@@ -29,7 +29,7 @@ const shanks = {
   location   : "📍 Ziguinchor, Sénégal",
   formation  : "L2 D2A — Université Alioune Diop de Bambey",
   role       : "Développeur Fullstack · UI Designer · Sysadmin",
-  ambition   : "Concevoir des solutions web robustes alliant front-end soigné,\n               back-end structuré et administration système.",
+  ambition   : "Concevoir des solutions web robustes alliant front-end soigné, back-end structuré et administration système.",
   seeking    : ["Stages & alternances", "Projets open source", "Collaborations web/mobile"],
   experience : "4+ ans · 10+ technologies · ∞ passion du code",
 };
