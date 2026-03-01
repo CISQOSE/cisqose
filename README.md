@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?text=Babacar+Mbemba+Sylla+CISSE&animation=fadeIn&type=waving&color=0:0a0a0f,50:1a1035,100:2d1b69&fontColor=ffffff&height=140&fontSize=36&fontAlignY=60&desc=Développeur+Fullstack+·+Ziguinchor%2C+Sénégal&descAlignY=80&descSize=17)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Développement+Web+%26+Mobile+%F0%9F%9A%80;UI+Design+%26+NoCode+%F0%9F%8E%A8;Systèmes%2C+Réseaux+%26+Linux+%F0%9F%96%A7%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Developpement+Web+%26+Mobile;UI+Design+%26+NoCode;Systemes%2C+Reseaux+%26+Linux" alt="Typing SVG" />
 
 <br/>
 
@@ -110,13 +110,13 @@ Virtualisation **VMware**, analyse réseau **Packet Tracer / Wireshark**.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CISQOSE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f,1a1035,2d1b69&title_color=A78BFA&icon_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=CISQOSE&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=1a1035&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CISQOSE&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img width="48%" src="https://streak-stats.demolab.com?user=CISQOSE&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=2d1b69&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=e2e2e2" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CISQOSE&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f,1a1035,2d1b69&title_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=CISQOSE&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CISQOSE&layout=compact&theme=midnight-purple&hide_border=true&title_color=A78BFA&text_color=e2e2e2&cache_seconds=1800" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CISQOSE&theme=midnight_purple&utcOffset=0" />
 
 </div>
 
