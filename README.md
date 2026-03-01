@@ -1,42 +1,163 @@
-# 💫 À propos de moi :
-Salut 👋, je suis Shanks Dev
-
-*Développeur Web | Futur Full-Stack Engineer | Passionné de Tech*
-
-📧 Contactez-moi 👉 ✉️ bmsc1906@gmail.com pour toute collaboration, projet ou échange 🚀<br>
-
-🔭 Je travaille actuellement sur : Sites web sécurisés et performants, application de réservation de places, etc <br>
-🌱 J’apprends actuellement : Java avancé, PHP (Laravel) <br>
-👯 Je cherche à collaborer sur : Projets web & mobiles centrés sur l’expérience utilisateur et contributions open source <br>
-🤔 J’ai besoin d’aide sur : Bonnes pratiques DevOps et Cloud Computing <br>
-💬 Parlez-moi de : Développement Web, gestion de clubs tech, parcours d’apprentissage IT <br>
-😄 Pronoms : Il / Lui <br>
-⚡ Fun fact : Passionné de nature 🌱, jeux vidéo 🎮 et bricolage 🔧 <br>
-
-### ✍️ Citation Dev Aléatoire
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/babacar-mbemba-sylla-cisse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cisqose) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bmsc1906@gmail.com) 
-
-# 💻 Stack technique :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![Header](https://capsule-render.vercel.app/api?text=Babacar+Mbemba+Sylla+CISSE&animation=fadeIn&type=waving&color=0:0a0a0f,50:1a1035,100:2d1b69&fontColor=ffffff&height=140&fontSize=36&fontAlignY=60&desc=Développeur+Fullstack+·+Ziguinchor%2C+Sénégal&descAlignY=80&descSize=17)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Développement+Web+%26+Mobile+%F0%9F%9A%80;UI+Design+%26+NoCode+%F0%9F%8E%A8;Systèmes%2C+Réseaux+%26+Linux+%F0%9F%96%A7%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shanks--dev.vercel.app-2d1b69?style=flat-square)](https://shanks-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1035?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/babacar-mbemba-sylla-cisse)
+[![Twitter / X](https://img.shields.io/badge/X-1a1035?style=flat-square&logo=x&logoColor=A78BFA)](https://x.com/cisqose)
+[![Email](https://img.shields.io/badge/Email-1a1035?style=flat-square&logo=gmail&logoColor=A78BFA)](mailto:bmsc1906@gmail.com)
+[![Téléphone](https://img.shields.io/badge/+221_76_136_26_29-1a1035?style=flat-square&logo=whatsapp&logoColor=A78BFA)](tel:+221761362629)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CISQOSE&color=A78BFA&style=flat-square&label=Visiteurs)
+
 </div>
 
-# 📊 Statistiques GitHub :
-![](https://github-readme-stats.vercel.app/api?username=CISQOSE&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CISQOSE&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CISQOSE&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Dépôt le plus contribué
-![](https://github-contributor-stats.vercel.app/api?username=CISQOSE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ◈ À Propos
+
+> *Étudiant en Licence Professionnelle — Développement et Administration d'Applications (D2A) à l'Université Alioune Diop de Bambey.*
+
+```ts
+const shanks = {
+  name       : "Babacar Mbemba Sylla CISSE",
+  alias      : "Shanks Dev",
+  location   : "📍 Ziguinchor, Sénégal",
+  formation  : "L2 D2A — Université Alioune Diop de Bambey",
+  role       : "Développeur Fullstack · UI Designer · Sysadmin",
+  ambition   : "Concevoir des solutions web robustes alliant front-end soigné,\n               back-end structuré et administration système.",
+  seeking    : ["Stages & alternances", "Projets open source", "Collaborations web/mobile"],
+  experience : "4+ ans · 10+ technologies · ∞ passion du code",
+};
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CISQOSE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ◈ Domaines d'Expertise
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🖥️ Développement Web
+Interfaces modernes avec **HTML, CSS, JS, React**.
+Back-end structuré avec **Node.js & PHP**.
+Bases de données **MySQL / Oracle**.
+Sites sur mesure ou via **CMS** (WordPress, Webflow, Wix).
+
+</td>
+<td width="33%">
+
+#### 🎨 UI Design & NoCode
+Maquettage & prototypage avec **Figma**.
+Conception en méthode **MERISE / UML**.
+Déploiement rapide via **Webflow, Wix, Glide**.
+Interfaces intuitives et accessibles.
+
+</td>
+<td width="33%">
+
+#### ⚙️ Systèmes & Maintenance
+Administration **Linux** (Ubuntu, Kali) & **Windows Server**.
+Diagnostic & réparation matérielle/logicielle.
+Virtualisation **VMware**, analyse réseau **Packet Tracer / Wireshark**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Stack Technique
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0a0a0f?style=flat-square&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-0a0a0f?style=flat-square&logo=wordpress&logoColor=21759B)
+![Webflow](https://img.shields.io/badge/Webflow-0a0a0f?style=flat-square&logo=webflow&logoColor=4353FF)
+
+**Backend & Bases de Données**
+
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=flat-square&logo=node.js&logoColor=6DA55F)
+![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0a0a0f?style=flat-square&logo=c&logoColor=00599C)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-0a0a0f?style=flat-square&logo=oracle&logoColor=F80000)
+
+**Design, Systèmes & Outils**
+
+![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=flat-square&logo=linux&logoColor=FCC624)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0a0a0f?style=flat-square&logo=cisco&logoColor=049fd9)
+![VMware](https://img.shields.io/badge/VMware-0a0a0f?style=flat-square&logo=vmware&logoColor=607078)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0f?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0a0a0f?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Notion](https://img.shields.io/badge/Notion-0a0a0f?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CISQOSE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f,1a1035,2d1b69&title_color=A78BFA&icon_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=CISQOSE&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=1a1035&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CISQOSE&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f,1a1035,2d1b69&title_color=A78BFA&text_color=e2e2e2&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-contributor-stats.vercel.app/api?username=CISQOSE&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_border=true" />
+
+</div>
+
+---
+
+## ◈ Citation Dev
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## ◈ Me Contacter
+
+<div align="center">
+
+| 📍 Localisation | 📧 Email | 📞 Téléphone |
+|:---:|:---:|:---:|
+| Ziguinchor, Sénégal | [bmsc1906@gmail.com](mailto:bmsc1906@gmail.com) | [+221 76 136 26 29](tel:+221761362629) |
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Voir_mon_Portfolio-2d1b69?style=for-the-badge)](https://shanks-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/babacar-mbemba-sylla-cisse)
+[![Email](https://img.shields.io/badge/M'écrire-0a0a0f?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:bmsc1906@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Mon ambition : concevoir des solutions web robustes alliant front-end soigné, back-end structuré et administration système."*
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1035,100:2d1b69&height=100&section=footer)
+
+© 2025 · Shanks Dev — Babacar Mbemba Sylla CISSE
+
+</div>
