@@ -27,7 +27,7 @@ const shanks = {
   name       : "Babacar Mbemba Sylla CISSE",
   alias      : "Shanks Dev",
   location   : "📍 Ziguinchor, Sénégal",
-  formation  : "L3 D2A — Université Alioune Diop de Bambey",
+  formation  : "L3 D2A (en cours) — Université Alioune Diop de Bambey",
   role       : "Développeur Fullstack · UI Designer · Sysadmin",
   ambition   : "Concevoir des solutions web robustes alliant front-end soigné, back-end structuré et administration système.",
   seeking    : ["Stages & alternances", "Projets open source", "Collaborations web/mobile"],
